@@ -3,11 +3,7 @@ IISC DLFA Kaggle competition Sentence Prediction Group 4
 
 Mini Project Notebook: Irrelevant/inappropriate Questions Classification using Deep Neural Networks.
 Learning Objectives
-At the end of the mini-hackathon, you will be able to :
 
-perform data preprocessing/preprocess the text
-represent the text/words using the pretrained word embeddings - Word2Vec/Glove
-build the deep neural networks to classify the questions as Irrelevant/inappropriate or not
 Dataset
 The challenge in this competition is to predict whether a question asked on a well known public forum/platform is irrelevant/inappropriate or not.
 
